@@ -57,7 +57,7 @@ O Pomodoro Timer visa oferecer uma experiência fluida e eficaz para quem deseja
 
 ## Clone o repositório:
 
-git clone https://github.com/seu-repositorio/pomodoro-web.git
+git clone https://github.com/Sabrina013dev/pomoducker-timer.git
 
 ### Acesse a pasta do projeto:
 
