@@ -1,0 +1,19 @@
+$yellow-light: #FFF9AA;
+$yellow-medium: #f8d36c;
+$brown-dark: #40200E; 
+$pink-color: #f114a4; 
+$text-gray: hsl(0, 2%, 75%);
+$input-color: #dbd8d831;
+$orange-color: #F29A2E;
+$rose-color: #F2889B;
+$bg-home: #5D89A3;
+// fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+    font-family: 'Compagnon';
+    src: url('/fonts/compagnon/Compagnon-Bold.otf');
+    src: url('/fonts/compagnon/Compagnon-Light.otf');
+    src: url('/fonts/compagnon/Compagnon-Medium.otf');
+}
